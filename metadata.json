@@ -1,0 +1,6 @@
+{
+  "name": "Crop Doctor",
+  "description": "An intelligent Crop Doctor AI that helps farmers snap pictures or record videos of crops to diagnose plant illness and prescribe organic/chemical cures instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
